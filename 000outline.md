@@ -1,26 +1,26 @@
-#Core Mechanics
+# Core Mechanics
 - [ ] Dynamic Challenge
 - [ ] Static Challenge
 - [ ] Permissible Actions
 - [ ] Numeric Scale
 
-#Dog Breeds
+# Dog Breeds
 - [ ] Distinctions
 - [ ] Effects
 
-#Classes
+# Classes
 - [ ] Barker
 - [ ] Biter
 
-#Skills
+# Skills
 - [ ] Class-specific?
 - [ ] Generic
 - [ ] Uses
 
-#Traits
+# Traits
 - [ ] Positive
 - [ ] Negative
 
-#Growth
+# Growth
 - [ ] Leveling Up
 - [ ] Improving Skills
